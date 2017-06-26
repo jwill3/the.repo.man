@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Do you know the repo man?
+
+Leaving all instruction/default content below for now...testing 1.2.3...
 
 You can use the [editor on GitHub](https://github.com/jwill3/the.repo.man/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
